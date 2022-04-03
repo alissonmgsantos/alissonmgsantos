@@ -29,8 +29,8 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="460em" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmgsantos&layout=compact&theme=vision-friendly-dark" alt="alissonmgsantos most languages"/>
-<img width="460em" height="185em" src="https://github-readme-stats.vercel.app/api?username=alissonmgsantos&show_icons=true&theme=vision-friendly-dark" alt="alissonmgsantos stats"/>
+<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmgsantos&layout=compact&theme=vision-friendly-dark" alt="alissonmgsantos most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=alissonmgsantos&show_icons=true&theme=vision-friendly-dark" alt="alissonmgsantos stats"/>
 </p>
 
 ## 🌐 &nbsp;Social Links
